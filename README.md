@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MIHIRR DOBARIYA</h1>
 <h3 align="center">I’m a passionate Data Science & Artificial Intelligence (AI) learner, building strong expertise in Machine Learning (ML), Generative AI, and Large Language Modal and (LLM) As a dedicated student, I focus on hands-on projects, continuous learning, and real-world applications of cutting-edge AI technologies. Currently, I’m expanding my knowledge in: 🤖 Agentic AI,Generative AI, Agents/Copilots, MLOps, and Explainable AI (XAI) — to design intelligent systems that are transparent, scalable, and impactful. I actively practice Data Analysis, Predictive Analytics, and Big Data Processing to extract meaningful insights and support data-driven decision-making. My learning journey also includes exploring Quantum Machine Learning, Edge AI, and Generative Engine Optimization (GEO) to stay ahead of emerging AI trends. I strongly believe in AI Ethics, AI Governance, and responsible innovation, ensuring technology is used to create value and benefit society. 🎯 Learning & Practice Areas 📊 Data Science & Analytics 🧠 Machine Learning & Deep Learning 🪄 Generative AI & Agentic AI ⚙️ MLOps & Model Deployment 🔍 Explainable AI (XAI) & AI Governance 📈 Big Data Processing & Predictive Analytics 🌐 Edge AI & Quantum Machine Learning 🤝 Workflow Automation with AI</h3>
 
-- 🌱 I’m currently learning **D**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **mihirofficial33.edu@gmail.com**
 
