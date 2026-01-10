@@ -26,7 +26,7 @@ I actively practice Data Analysis, Predictive Analytics, and Big Data Processing
 
 ---
 
-                                               --------------------# 💻 Tech Stack 🤖⚙️-------------------- 
+                                      --------------------# 💻 Tech Stack 🤖⚙️-------------------- 
 
 
 🤖 Artificial Intelligence and Bots
