@@ -1,15 +1,36 @@
-# 💫 Hi 👋, I'm MIhirr Dobariya
+# Hi 👋, I'm MIHIRR DOBARIYA
+## Data Analyst | Business Intelligence (BI) Analyst
 
-**AI Engineer | Generative Ai | Agentic Ai**
+🔹 Turning data into actionable business insights  
+🔹 Skilled in SQL, Python,tableau, Power BI, and Excel 
+🔹 Passionate about analytics, dashboards, and data-driven decision making  
 
-* 🔭 **Currently Working On:** AI- Workflow, Machine Lerning+Deep Lerning Projects
- 
-* 🌱 **Currently Learning:** Machine Leraning,Deep Learning , RAG, and Gen Ai & Agentic Workflows
-  
-* 👯 **Looking to Collaborate On:**• Beginner-friendly ML+DS+Ai+Gen Ai+ Agentic AI projects and learning-focused collaborations
-  
-* 💬 **Ask Me About:** 🤖 Agentic AI,Generative AI, Agents/Copilots, MLOps, and Explainable AI (XAI) — to design intelligent systems that are transparent, scalable, and impactful.
-I actively practice Data Analysis, Predictive Analytics, and Big Data Processing to extract meaningful insights and support data-driven decision-making.
+---
+
+## 🔹 About Me
+I am a data enthusiast with a strong focus on analyzing business problems and delivering actionable insights. Experienced in working with SQL databases, Python for data analysis, and building interactive dashboards in Power BI.  
+
+I enjoy solving real-world problems through data, visualizing patterns, and helping organizations make informed decisions.
+
+---
+
+## 🔹 Skills
+
+**Data Analysis & Programming:** Python (pandas, NumPy), SQL, Excel  
+**Data Visualization:** Power BI, matplotlib, seaborn, Plotly  
+**Database & BI Tools:** PostgreSQL, MySQL, Power BI,tableau  
+**Business Skills:** KPI analysis, reporting, insights generation, decision support  
+
+---
+
+## 🔹 Professional Interests
+- Business Analytics & Reporting  
+- Customer & Sales Insights  
+- Data Visualization & Dashboarding  
+- Predictive Analytics & Forecasting
+
+  ---
+
 
 ✉️ **Reach Me At:** **[mihirofficial33.edu@gmail.com](mihirofficial33.edu@gmail.com)** for Lerning, projects, or tech discussions
   
