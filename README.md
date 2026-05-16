@@ -205,26 +205,15 @@ I enjoy solving real-world problems through data, visualizing patterns, and help
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mihirr00051\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mihirr00051\&theme=tokyonight\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirr00051\&theme=tokyonight\&hide_border=false\&layout=compact)
-
 ---
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=rishabh3562\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=mihirr00051&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=rishabh3562\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=mihirr00051&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 ### ✍️ Random Dev Quote
