@@ -2,7 +2,9 @@
 ## Data Analyst | Business Intelligence (BI) Analyst
 
 🔹 Turning data into actionable business insights  
+
 🔹 Skilled in SQL, Python,tableau, Power BI, and Excel 
+
 🔹 Passionate about analytics, dashboards, and data-driven decision making  
 
 ---
