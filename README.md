@@ -193,25 +193,18 @@ I enjoy solving real-world problems through data, visualizing patterns, and help
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
-
-
-                                               
-
-
-
 ---
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 ---
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mihirr00051&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
-### ✍️ Random Dev Quote
+✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
