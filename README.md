@@ -1,5 +1,5 @@
 # Hi 👋, I'm MIHIRR DOBARIYA
-## Data Analyst | Business Intelligence (BI) Analyst
+## Data Analyst | Business Intelligence (BI) Analyst | Business Analyst 
 
 🔹 Turning data into actionable business insights  
 
