@@ -1,6 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mihir+Dobariya+%F0%9F%91%8B;Data+Analyst+%7C+BI+Developer+%7C+SQL+Expert;Turning+Raw+Data+into+Business+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+<h1>MihirR Dobariya</h1>
+
+<h3>📊 Data Analyst &nbsp;|&nbsp; ⚡ Power BI Developer &nbsp;|&nbsp; 🗄️ SQL Expert</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=0EA5E9&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Turning+Raw+Data+into+Executive-Ready+Insights+%F0%9F%93%88;Google+%26+Microsoft+Certified+Data+Analyst+%F0%9F%8F%85;BFSI+Analytics+%7C+KPI+Dashboards+%7C+ETL+Pipelines;Open+to+Full-Time+DA+%2F+BI+%2F+BA+Roles+in+India+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <b>Data Analyst · Power BI Developer · Business Intelligence Engineer</b><br/>
