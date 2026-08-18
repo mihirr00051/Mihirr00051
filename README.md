@@ -165,14 +165,8 @@ SQL-first content intelligence analysis on **8,000+ Netflix titles across 190+ c
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihirr00051&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirr00051&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirr00051&theme=tokyonight&hide_border=true" />
-</p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirr00051&theme=tokyonight" width="96%"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihirr00051&theme=tokyonight" height="165"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirr00051&theme=tokyonight" height="165"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirr00051&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-activity-graph.vercel.app/graph?username=mihirr00051&theme=tokyo-night&hide_border=true&area=true" width="96%"/> </p>
 
 ---
 
