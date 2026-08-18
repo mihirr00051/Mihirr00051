@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>MihirR Dobariya</h1>
+<h1>MIHIRR DOBARIYA</h1>
 
 <h3>📊 Data Analyst &nbsp;|&nbsp; ⚡ Power BI Developer &nbsp;|&nbsp; 🗄️ SQL Expert</h3>
 
