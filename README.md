@@ -1,197 +1,198 @@
-# Hi 👋, I'm MIHIRR DOBARIYA
-## Data Analyst | Business Intelligence (BI) Analyst | Business Analyst 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mihir+Dobariya+%F0%9F%91%8B;Data+Analyst+%7C+BI+Developer+%7C+SQL+Expert;Turning+Raw+Data+into+Business+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-🔹 Turning data into actionable business insights  
+<p align="center">
+  <b>Data Analyst · Power BI Developer · Business Intelligence Engineer</b><br/>
+  <i>Bengaluru, Karnataka, India 📍</i>
+</p>
 
-🔹 Skilled in SQL, Python,tableau, Power BI, and Excel 
-
-🔹 Passionate about analytics, dashboards, and data-driven decision making  
-
----
-
-## 🔹 About Me
-I am a data enthusiast with a strong focus on analyzing business problems and delivering actionable insights. Experienced in working with SQL databases, Python for data analysis, and building interactive dashboards in Power BI.  
-
-I enjoy solving real-world problems through data, visualizing patterns, and helping organizations make informed decisions.
-
----
-
-## 🔹 Skills
-
-**Data Analysis & Programming:** Python (pandas, NumPy), SQL, Excel  
-**Data Visualization:** Power BI, matplotlib, seaborn, Plotly  
-**Database & BI Tools:** PostgreSQL, MySQL, Power BI,tableau  
-**Business Skills:** KPI analysis, reporting, insights generation, decision support  
+<p align="center">
+  <a href="https://linkedin.com/in/mihirr51"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mihirr00051"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://ryvonexa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="mailto:mihirdobariyaofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🔹 Professional Interests
-- Business Analytics & Reporting  
-- Customer & Sales Insights  
-- Data Visualization & Dashboarding  
-- Predictive Analytics & Forecasting
+## 🧑‍💼 About Me
 
-  ---
+Detail-oriented **Data Analyst** with **1+ year of professional experience** transforming raw data into executive-ready insights using SQL, Python, and Power BI.
 
+Delivered measurable impact at **AISPRY Technologies** — including **30%+ gains in data accuracy**, **25% faster reporting**, and **40% reduction in ad-hoc requests**. Certified by **Google** and **Microsoft**, with end-to-end project experience across **BFSI portfolio analytics** and **retail customer intelligence**.
 
-✉️ **Reach Me At:** **[mihirofficial33.edu@gmail.com](mihirofficial33.edu@gmail.com)** for Lerning, projects, or tech discussions
-  
-* 😄 **Pronouns:** He/Him
-  
-* ⚡ **Fun fact:** I debug faster when I’m sleep-deprived
-
----
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mihirr51/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/mihirr00051?tab=repositories)
+```python
+mihir = {
+    "role"       : "Data Analyst | BI Developer",
+    "location"   : "Bengaluru, Karnataka, India",
+    "experience" : "1+ Year @ AISPRY Technologies",
+    "stack"      : ["SQL", "Python", "Power BI", "DAX", "Excel", "Tableau"],
+    "domains"    : ["BFSI Analytics", "Retail Intelligence", "KPI Reporting"],
+    "open_to"    : "Full-Time Data / BI / Business Analyst Roles in India",
+    "fun_fact"   : "I debug faster when sleep-deprived 😅"
+}
+```
 
 ---
 
-                                      --------------------# 💻 Tech Stack 🤖⚙️-------------------- 
+## 📊 Impact at a Glance
 
+<p align="center">
 
-🤖 Artificial Intelligence and Bots
+| 📈 Metric | 🎯 Achievement |
+|---|---|
+| Data Accuracy Improvement | **30%+** |
+| Report Generation Speed | **25% Faster** |
+| Ad-Hoc Request Reduction | **40%** |
+| Manual Effort Saved | **5+ hrs/week** |
+| Power BI Dashboards Built | **5+ Production-Grade** |
+| Advanced SQL Queries Authored | **20+** |
+| Reporting Workflows Automated | **8+** |
+| Business Metrics Owned | **10+ KPIs** |
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+</p>
 
-🌐 Browsers
+---
 
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+## 🛠️ Tech Stack
 
-📂 Cloud Storage
+**📌 SQL & Databases**
 
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-💾 Databases
+**📌 Business Intelligence & Visualization**
 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-🎨 Design
+**📌 Python & Analytics**
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-🎓 Education
+**📌 Excel & Reporting**
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![O'Reilly](https://img.shields.io/badge/O'Reilly-%23D30000.svg?style=for-the-badge&logo=o%27reilly&logoColor=F1F1F1)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-📚 Frameworks, Platforms and Libraries
+**📌 Tools & Dev Environment**
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-☁️ Hosting/SaaS
+---
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Hostinger](https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+## 💼 Domain Expertise
 
-💻 IDEs/Editors
+```
+📦 BFSI Analytics         →  Portfolio Analysis · AUM · Credit Risk · DPD · Collections · NPL
+🛒 Retail Intelligence    →  Customer Segmentation · CLV · Cohort Analysis · Cross-sell
+📊 BI & Reporting         →  KPI Dashboards · MIS Reports · Trend Analysis · Forecasting
+🔁 ETL & Data Ops         →  Pipeline Design · Data Validation · Normalization · Profiling
+```
 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-📋 Languages
+## 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)
+### 🏦 [FinSight AI](https://github.com/mihirr00051) — BFSI Decision Intelligence Platform
+> `Python` `SQL` `BigQuery` `Power BI` `Tableau` `Streamlit` `Plotly` `R` `SAS` `Pytest`
 
-🖥️ ML/DL
+End-to-end BFSI analytics platform covering **portfolio management, credit risk, collections, and insurance cross-sell** on synthetic enterprise datasets.
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![ONNX](https://img.shields.io/badge/onnx-%23ffffff.svg?style=for-the-badge&logo=onnx&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Polars](https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-%233C2179.svg?style=for-the-badge&logo=pyg&logoColor=white)
-![Roboflow](https://img.shields.io/badge/roboflow-%23EE4C2C.svg?style=for-the-badge&logo=roboflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
+- Built KPIs: AUM, disbursals, delinquency rate, 90+ DPD/NPL proxy, collection efficiency, cross-sell rate
+- Engineered an **AI Insight Copilot** with OpenAI integration for KPI interpretations, risk alerts & collection recommendations
+- Full data-quality validation layer using **Pytest** with schema consistency, loan ID uniqueness, and monetary value checks
+- Deployed interactive **Streamlit + Plotly executive command center** for management-oriented decision support
 
-🎶 Music
+---
 
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+### 🛍️ [CustomerIQ-Analytics](https://github.com/mihirr00051) — Retail Customer Intelligence Pipeline
+> `Python` `SQL` `MySQL` `Power BI` `Pandas` `NumPy` `Looker Studio` `ETL` `EDA`
 
-🏢 Office
+End-to-end analytics pipeline on **64,000+ row retail dataset** from raw CSV to interactive Power BI dashboard.
 
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+- 5-page Power BI dashboard with DAX measures, KPI scorecards, and customer segmentation views
+- Engineered **CLV, purchase frequency & basket size** metrics; cohort + regression analysis for behavior patterns
+- Identified **Clothing & Electronics** as top revenue categories; **26–35 age group** as highest AOV segment
+- Normalized MySQL schema + 20+ advanced SQL queries for revenue and segmentation analysis
 
-🎛️ Operating System
+---
 
-![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2010&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+### 🎬 [NetflixAI-InsightEngine](https://github.com/mihirr00051) — Large-Scale SQL Content Analytics
+> `PostgreSQL` `Advanced SQL` `CTEs` `Window Functions` `pgAdmin` `Business Intelligence`
 
-🗄️ Servers
+SQL-first content intelligence analysis on **8,000+ Netflix titles across 190+ countries**.
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+- 15+ advanced analytical queries using CTEs, Window Functions, CASE, correlated subqueries & ranking logic
+- Rule-based content classification framework for scalable segmentation and comparative analysis
+- Identified regional content gaps, high-growth markets & category-level trends for content acquisition strategy
 
-💬 Social
+---
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+## 🎓 Education
 
-🕓 Version Control
+| Degree | Institution | Period |
+|---|---|---|
+| 🎓 PG Diploma in Artificial Intelligence *(Online)* | SUNY Potsdam, USA | Mar 2025 – Jun 2026 |
+| 🏫 Professional Data Science & AI Training | 360DigiTMG, Bengaluru | Jun 2025 – Nov 2025 |
+| 🎓 BCA — Information Technology | BKNMU, Gujarat | Jul 2022 – Mar 2025 |
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| 🥇 Google Data Analytics Professional Certificate | Google / Coursera | Feb 2026 |
+| 🥇 Career Essentials in Data Analysis | Microsoft | Jun 2025 |
+| 🥇 Data Visualization using Power BI | 360DigiTMG | Jul 2025 |
+| 🥇 Data Analytics Job Simulation | Deloitte Australia / Forage | Jul 2025 |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mihirr00051&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirr00051&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirr00051&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for **full-time Data Analyst / BI Analyst / Business Analyst** roles in India.
+
+> 📧 **mihirdobariyaofficial@gmail.com**  
+> 🌐 **[ryvonexa.netlify.app](https://ryvonexa.netlify.app)**  
+> 💼 **[linkedin.com/in/mihirr51](https://linkedin.com/in/mihirr51)**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mihirr00051&color=0EA5E9&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+</p>
 
 ---
 
