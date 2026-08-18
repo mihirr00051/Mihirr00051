@@ -1,24 +1,58 @@
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║  📸 PHOTO SETUP — DO THIS FIRST:                        ║
+  ║  1. Go to your GitHub profile repo: mihirr00051/         ║
+  ║     mihirr00051                                          ║
+  ║  2. Create a folder named "assets"                       ║
+  ║  3. Upload your photo as "profile.jpg" inside it         ║
+  ║  4. That's it! Image will load automatically ✅          ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
 <h1>MIHIRR DOBARIYA</h1>
 
-<h3>📊 Data Analyst &nbsp;|&nbsp; ⚡ Power BI Developer &nbsp;|&nbsp; 🗄️ SQL Expert</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=0EA5E9&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Turning+Raw+Data+into+Executive-Ready+Insights+%F0%9F%93%88;Google+%26+Microsoft+Certified+Data+Analyst+%F0%9F%8F%85;BFSI+Analytics+%7C+KPI+Dashboards+%7C+ETL+Pipelines;Open+to+Full-Time+DA+%2F+BI+%2F+BA+Roles+in+India+%F0%9F%9A%80" alt="Typing SVG" />
-
 </div>
 
-<p align="center">
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="65%">
+
+  <h3>📊 Data Analyst &nbsp;|&nbsp; ⚡ Power BI Developer &nbsp;|&nbsp; 🗄️ SQL Expert</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=0EA5E9&center=false&vCenter=true&multiline=false&width=600&height=40&lines=Turning+Raw+Data+into+Executive-Ready+Insights+%F0%9F%93%88;Google+%26+Microsoft+Certified+Data+Analyst+%F0%9F%8F%85;BFSI+Analytics+%7C+KPI+Dashboards+%7C+ETL+Pipelines;Open+to+Full-Time+DA+%2F+BI+%2F+BA+Roles+in+India+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/><br/>
+
+<p>
   <b>Data Analyst · Power BI Developer · Business Intelligence Engineer</b><br/>
   <i>Bengaluru, Karnataka, India 📍</i>
 </p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/mihirr51"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/mihirr00051"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ryvonexa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white"/></a>
   <a href="mailto:mihirdobariyaofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+</td>
+<td valign="middle" width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/mihirr00051/mihirr00051/main/assets/profile.jpg"
+     width="240"
+     alt="Mihirr Dobariya — Data Analyst"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mihirr00051&color=0EA5E9&style=flat-square&label=Profile+Views" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -171,7 +205,6 @@ SQL-first content intelligence analysis on **8,000+ Netflix titles across 190+ c
 
 ## 📈 GitHub Stats
 
-📈 GitHub Stats
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirr00051&theme=tokyonight" width="96%"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihirr00051&theme=tokyonight" height="165"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirr00051&theme=tokyonight" height="165"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirr00051&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-activity-graph.vercel.app/graph?username=mihirr00051&theme=tokyo-night&hide_border=true&area=true" width="96%"/> </p>
 
 ---
@@ -187,10 +220,6 @@ I'm actively looking for **full-time Data Analyst / BI Analyst / Business Analys
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mihirr00051&color=0EA5E9&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
   <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
 </p>
 
@@ -199,13 +228,11 @@ I'm actively looking for **full-time Data Analyst / BI Analyst / Business Analys
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----
-🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mihirr00051&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 
-✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
