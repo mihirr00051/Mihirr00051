@@ -162,24 +162,24 @@ Deep SQL analysis on **8,000+ Netflix titles across 190+ countries**.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirr00051&theme=tokyonight" width="96%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirrofficial51&theme=tokyonight" width="96%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihirr00051&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirr00051&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirr00051&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihirrofficial51&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirrofficial51&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirrofficial51&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=mihirr00051&theme=tokyo-night&hide_border=true&area=true" width="96%"/>
+  <img src="https://github-activity-graph.vercel.app/graph?username=mihirrofficial51&theme=tokyo-night&hide_border=true&area=true" width="96%"/>
 </p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=mihirr00051&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mihirrofficial51&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
