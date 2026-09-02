@@ -12,7 +12,7 @@
 
 <h1>MIHIRR DOBARIYA</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1400&color=0EA5E9&center=false&vCenter=true&width=520&height=36&lines=Data+Analyst+%7C+Power+BI+Developer+%7C+SQL+Expert;BFSI+Analytics+%7C+KPI+Dashboards+%7C+ETL+Pipelines;Google+%26+Microsoft+Certified+%F0%9F%8F%85;1%2B+Year+%40+AISPRY+Technologies%2C+Bengaluru;Open+to+DA+%2F+BI+%2F+BA+Roles+Across+India+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1400&color=0EA5E9&center=false&vCenter=true&width=520&height=36&lines=Data+Scintist+%7C+Data+Analytics+%7C+Power+BI+Developer;BFSI+Analytics+%7C+KPI+Dashboards+%7C+ETL+Pipelines;Google+%26+Microsoft+Certified+%F0%9F%8F%85;1%2B+Year+%40+AISPRY+Technologies%2C+Bengaluru;Open+to+DA+%2F+BI+%2F+BA+Roles+Across+India+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
