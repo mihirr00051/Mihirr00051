@@ -50,13 +50,13 @@ Certified by **Google** (Data Analytics) and **Microsoft** (Data Analysis Essent
 ```python
 profile = {
     "name"       : "Mihir Dobariya",
-    "role"       : "Data Analyst | Power BI Developer | BI Engineer",
+    "role"       : "Data Scientist |Data Analyst | Power BI Developer | BI Engineer",
     "location"   : "Bengaluru, Karnataka, India",
     "experience" : "1+ Year · AISPRY Technologies",
     "core_stack" : ["SQL", "Python", "Power BI", "DAX", "Tableau", "Excel"],
-    "domains"    : ["BFSI Analytics", "Retail Intelligence", "KPI Reporting", "ETL"],
+    "domains"    : ["Healthcare" "BFSI Analytics", "Retail Intelligence", "KPI Reporting", "ETL"],
     "certs"      : ["Google Data Analytics", "Microsoft Data Analysis", "Deloitte Forage"],
-    "seeking"    : "Full-Time · Data Analyst / BI Analyst / Business Analyst · India"
+    "seeking"    : "Full-Time ·  Data Scientist / Data Analyst / BI Analyst / Business Analyst · India"
 }
 ```
 
